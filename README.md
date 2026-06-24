@@ -1,33 +1,56 @@
-[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://linktr.ee/pramodhkadam)
-<h1 align="center">Hi 👋, I'm Pramodh</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodh-del&label=Profile%20views&color=0e75b6&style=flat" alt="pramodh-del" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1F3864&height=200&section=header&text=Hi%20there,%20I'm%20Pramodh%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<p align="left"> <a href="https://twitter.com/pramodhkadam7" target="blank"><img src="https://img.shields.io/twitter/follow/pramodhkadam7?logo=twitter&style=for-the-badge" alt="pramodhkadam7" /></a> </p>
+<a href="https://linktr.ee/pramodhkadam">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer+%40+Accenture;Building+Reliable%2C+Scalable+REST+APIs;Spring+Boot+%7C+Microservices+%7C+Oracle+%7C+Redis;Migrating+legacy+systems+to+Java+21+%26+Spring+Boot+4;Ramping+up+on+AWS+%26+Terraform&font=Fira+Code&center=true&width=650&height=40&color=0e75b6&vCenter=true&size=21&pause=1500" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **Java , FullStack Web-Development(MERN Stack)**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/pramodhkadam](https://linktr.ee/pramodhkadam)
+<img src="https://komarev.com/ghpvc/?username=pramodh-del&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
-- 💬 Ask me about **Front-end Technologies,Java**
+<br/><br/>
 
-- 📫 How to reach me **pramodhkadam68@gmail.com**
+<a href="https://www.linkedin.com/in/kadam-pramodh-88975432a/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" alt="LinkedIn"/></a>&nbsp;
+<a href="https://twitter.com/pramodhkadam7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" height="32" alt="Twitter"/></a>&nbsp;
+<a href="https://instagram.com/pramodhkadam" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32" alt="Instagram"/></a>&nbsp;
+<a href="https://hashnode.com/pramodhkadam" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" width="32" height="32" alt="Hashnode"/></a>
 
-<h3 align="left">Connect with me:</h3>
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+- 💼 **Java Backend Developer** at **Accenture**, designing and stabilizing production-grade REST APIs for enterprise-scale, high-availability systems
+- 🔧 Currently **leading a modernization initiative** — migrating a legacy Ant-based service to **Java 21** & **Spring Boot 4**
+- ☁️ Expanding into **Cloud & Infrastructure-as-Code** — currently ramping up on **AWS** and **Terraform**
+- ⚡ Focused on **performance optimization**, **distributed systems**, and **scalable backend architecture**
+- 🎯 Open to **Backend Developer / SDE-2** roles at product-driven companies
+- 📫 Reach me at **pramodhkadam68@gmail.com**
+
+<br/>
+
+## 🛠️ Tech Stack
+
 <p align="left">
-<a href="https://twitter.com/pramodhkadam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pramodhkadam7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pramodh-kadam-025479199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodh-kadam-025479199" height="30" width="40" /></a>
-<a href="https://instagram.com/pramodhkadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramodhkadam" height="30" width="40" /></a>
-<a href="https://hashnode.com/pramodhkadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="pramodhkadam" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=java,spring,oracle,redis,git,linux,aws,terraform,jenkins,bash" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodh-del&show_icons=true&locale=en&layout=compact" alt="pramodh-del" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramodh-del&show_icons=true&locale=en" alt="pramodh-del" /></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pramodh-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pramodh-del&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodh-del&" alt="pramodh-del" /></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodh-del&layout=compact&theme=tokyonight&hide_border=true" width="55%"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:0e75b6&height=120&section=footer" width="100%"/>
