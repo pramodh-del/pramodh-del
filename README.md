@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-- 💼 **Java Backend Developer** at **Accenture**, designing and stabilizing production-grade REST APIs for enterprise-scale, high-availability systems
+- 💼 **Java Backend Developer**, designing and stabilizing production-grade REST APIs for enterprise-scale, high-availability systems
 - 🔧 Currently **leading a modernization initiative** — migrating a legacy Ant-based service to **Java 21** & **Spring Boot 4**
 - ☁️ Expanding into **Cloud & Infrastructure-as-Code** — currently ramping up on **AWS** and **Terraform**
 - ⚡ Focused on **performance optimization**, **distributed systems**, and **scalable backend architecture**
